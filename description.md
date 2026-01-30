@@ -7,10 +7,10 @@
 4. cleaned_data.csv - Dataset have been cleaned for tableau visualization.
 
 ## Problem Background
-Our clients want to buy a house at Bekasi, East Java. Before buying houses, they need to know what facilities are they will obtain with their budgets. They also have a few assumptions and considerations to find the best houses for their families.
+Buying a house is a crucial moment for many people because it is one of most hardest decision, once in one lifetime and thoughtful. For having the right decision, people should drain their time and mind to find the best one.
 
 ## Objective
-This project is dedicated for analysing house price sold at www.rumah123.com concentrated at Bekasi, West Java. Gathering 200 houses' data as the sample for helping to describe house market condition to the house's buyers.
+This project is dedicated for analyzing house price sold at “www.rumah123.com” concentrated in Bekasi. Gathering 200 houses' data as the sample for helping to describe house market condition to the house's buyers.
 
 ## Data
 This data is obtained by scraping www.rumah123.com with place filter, Bekasi. This data consist of 200 houses. This data is extracted at 22 November 2025.
