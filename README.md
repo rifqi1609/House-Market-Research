@@ -1,7 +1,7 @@
-# Man Stock's Market Research at Tokopedia
+# House Market Research at Bekasi
 
 ## Repository Outline
-1. description.md - Explanation of project.
+1. README.md - Explanation of project.
 2. notebook.ipynb - Python notebook for scraping, processing and analyzing data.
 3. scraped_data.csv - Dataset obtained from scraping.
 4. cleaned_data.csv - Dataset have been cleaned for tableau visualization.
